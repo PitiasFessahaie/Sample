@@ -19,6 +19,7 @@ public class Sample {
 	        list.add("D"); 
 	        list.add("E"); 
 	        System.out.println(list.get(2));
+	        System.out.println(list.get(1));
 	  
 	        // ListIterator to traverse the list 
 	        ListIterator <String>iterator = list.listIterator(); 
